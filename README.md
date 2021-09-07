@@ -1,4 +1,10 @@
 # Laboratorio_8
+* INTEGRANTES
+- Andrade Luis
+- Altamirano Cristhian
+- Oña Erick
+- Ponce Camilo
+
 # OBJETIVOS
 * GENERALES
 
