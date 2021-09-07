@@ -33,7 +33,7 @@
 7.5.4. Responda las siguientes preguntas:
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-Abarca un cuadro y un tercio de cuadro aproximadamente
+Abarca dos cuadros y un tercio de cuadro aproximadamente
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -41,7 +41,7 @@ En 3 volts/div
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-4 cuadros y un tercio abarca un ciclo
+4 cuadros abarca un ciclo
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
