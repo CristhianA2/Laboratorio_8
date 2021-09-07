@@ -21,7 +21,8 @@
 ![2](https://user-images.githubusercontent.com/85193519/132261235-a1b0f84c-0315-4f48-9ad4-09a2bc24db19.jpg)
 ![image](https://user-images.githubusercontent.com/85193519/132264506-d5138887-d08b-4b34-b1b2-06ec8234d4b3.png)
 ![image](https://user-images.githubusercontent.com/85193519/132264515-1cc5c4c2-7681-4afa-8273-f8bf2fd5967f.png)
-![image](https://user-images.githubusercontent.com/85193519/132264527-10526f09-c21a-4158-bef6-a57c83b681d5.png)
+![2](https://user-images.githubusercontent.com/85193519/132377761-9695efbc-a2ab-4981-99af-e973f2c94cf7.jpg)
+
 
 7.5.4. Responda las siguientes preguntas:
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -44,12 +45,14 @@ En 3 volts/div
 del osciloscopio?
 
 Amplitud de voltaje: 6.86 (V)
+
 Periodo: 0.0004 (s)
 
 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 f: 2500 (Hz)
+
 ω: 15707.96 (rad/s)
 
 7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.81V
